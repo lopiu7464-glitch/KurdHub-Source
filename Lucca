@@ -3505,3 +3505,4 @@ game:GetService("UserInputService").InputBegan:Connect(function(input,gameProces
 		Background.Visible = not Background.Visible
 	end
 end)
+
